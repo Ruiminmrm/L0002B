@@ -1,0 +1,15 @@
+C:\Users\marui\OneDrive\桌面\code\cs\upp2\bin\Debug\net6.0\upp2.exe
+C:\Users\marui\OneDrive\桌面\code\cs\upp2\bin\Debug\net6.0\upp2.deps.json
+C:\Users\marui\OneDrive\桌面\code\cs\upp2\bin\Debug\net6.0\upp2.runtimeconfig.json
+C:\Users\marui\OneDrive\桌面\code\cs\upp2\bin\Debug\net6.0\upp2.dll
+C:\Users\marui\OneDrive\桌面\code\cs\upp2\bin\Debug\net6.0\upp2.pdb
+C:\Users\marui\OneDrive\桌面\code\cs\upp2\obj\Debug\net6.0\upp2.csproj.AssemblyReference.cache
+C:\Users\marui\OneDrive\桌面\code\cs\upp2\obj\Debug\net6.0\upp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marui\OneDrive\桌面\code\cs\upp2\obj\Debug\net6.0\upp2.AssemblyInfoInputs.cache
+C:\Users\marui\OneDrive\桌面\code\cs\upp2\obj\Debug\net6.0\upp2.AssemblyInfo.cs
+C:\Users\marui\OneDrive\桌面\code\cs\upp2\obj\Debug\net6.0\upp2.csproj.CoreCompileInputs.cache
+C:\Users\marui\OneDrive\桌面\code\cs\upp2\obj\Debug\net6.0\upp2.dll
+C:\Users\marui\OneDrive\桌面\code\cs\upp2\obj\Debug\net6.0\refint\upp2.dll
+C:\Users\marui\OneDrive\桌面\code\cs\upp2\obj\Debug\net6.0\upp2.pdb
+C:\Users\marui\OneDrive\桌面\code\cs\upp2\obj\Debug\net6.0\upp2.genruntimeconfig.cache
+C:\Users\marui\OneDrive\桌面\code\cs\upp2\obj\Debug\net6.0\ref\upp2.dll
