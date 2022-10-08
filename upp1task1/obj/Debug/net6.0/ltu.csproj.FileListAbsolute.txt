@@ -1,0 +1,15 @@
+C:\Users\marui\source\repos\ltu\bin\Debug\net6.0\ltu.exe
+C:\Users\marui\source\repos\ltu\bin\Debug\net6.0\ltu.deps.json
+C:\Users\marui\source\repos\ltu\bin\Debug\net6.0\ltu.runtimeconfig.json
+C:\Users\marui\source\repos\ltu\bin\Debug\net6.0\ltu.dll
+C:\Users\marui\source\repos\ltu\bin\Debug\net6.0\ltu.pdb
+C:\Users\marui\source\repos\ltu\obj\Debug\net6.0\ltu.csproj.AssemblyReference.cache
+C:\Users\marui\source\repos\ltu\obj\Debug\net6.0\ltu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marui\source\repos\ltu\obj\Debug\net6.0\ltu.AssemblyInfoInputs.cache
+C:\Users\marui\source\repos\ltu\obj\Debug\net6.0\ltu.AssemblyInfo.cs
+C:\Users\marui\source\repos\ltu\obj\Debug\net6.0\ltu.csproj.CoreCompileInputs.cache
+C:\Users\marui\source\repos\ltu\obj\Debug\net6.0\ltu.dll
+C:\Users\marui\source\repos\ltu\obj\Debug\net6.0\refint\ltu.dll
+C:\Users\marui\source\repos\ltu\obj\Debug\net6.0\ltu.pdb
+C:\Users\marui\source\repos\ltu\obj\Debug\net6.0\ltu.genruntimeconfig.cache
+C:\Users\marui\source\repos\ltu\obj\Debug\net6.0\ref\ltu.dll
